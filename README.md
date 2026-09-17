@@ -24,10 +24,6 @@ Self-hosted, chạy gọn trên một máy chủ duy nhất.
 
 `Go` · `Vue` · `Shell` · `AGPL-3.0`
 
-## 🧰 Other work
-
-- **[tools](https://github.com/hungbo/tools)** — small web utilities I use day to day
-
 ## 📌 About
 
 - 🔭 Currently building **VNET Core**
