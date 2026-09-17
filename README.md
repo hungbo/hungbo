@@ -24,6 +24,14 @@ Self-hosted, chạy gọn trên một máy chủ duy nhất.
 
 `Go` · `Vue` · `Shell` · `AGPL-3.0`
 
+## 🧰 tools
+
+**[hungbo.github.io/tools](https://hungbo.github.io/tools/)** — merge and split PDFs, compress and convert images.
+
+Everything runs in the browser, so no file is ever uploaded. No build step, no backend.
+
+`pdf-lib` · `canvas` · `GitHub Pages` · `MIT`
+
 ## 📌 About
 
 - 🔭 Currently building **VNET Core**
